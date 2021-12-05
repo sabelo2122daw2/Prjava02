@@ -17,3 +17,17 @@ git push
 
 14a.
 git push --set-upstream origin branca01
+
+-------------------------------
+
+6. 
+No podem veure el canvi doncs ha sigut realitzat a una branca diferent a la que estem actualment
+
+7. 
+Si podem veure l'ultima linea perque el canvia l'hem realitzat en aquesta branca
+
+12. 
+Perque hem realitzat el push desde aquí
+
+14c. 
+Nomes a un
